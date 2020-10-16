@@ -1,11 +1,11 @@
 .parte1{
 	position: fixed;
 	width: -webkit-fill-available;
-    height: auto;
+    	height: auto;
 	background-color: #2C3E50;
-    height: auto;
-    border-bottom: solid #1a344e;
-    border-bottom-width: 10px;
+    	height: auto;
+    	border-bottom: solid #1a344e;
+    	border-bottom-width: 10px;
 }
 
 body{
