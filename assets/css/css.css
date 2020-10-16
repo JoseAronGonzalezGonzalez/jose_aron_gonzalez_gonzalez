@@ -1,0 +1,200 @@
+.parte1{
+	position: fixed;
+	width: -webkit-fill-available;
+    height: auto;
+	background-color: #2C3E50;
+    height: auto;
+    border-bottom: solid #1a344e;
+    border-bottom-width: 10px;
+}
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	text-decoration-line: none;
+}
+.part1{
+	margin: auto;
+	padding: 5px;
+	text-align: center;
+	height: 69px;
+    width: 752px;
+
+
+    /*position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;*/
+}
+		
+.part1 img{
+	float: left;
+	padding: 7px 0 0 0;
+	width: 50px;
+}
+
+.letra{
+	padding-left: 10px;
+    float: left;
+    line-height: 70px;
+    color: green;
+}
+
+.about{
+	padding-left: 10px;
+    float: right;
+    line-height: 70px;
+    color: white;
+}
+.references{
+	padding-left: 10px;
+    float: right;
+    line-height: 70px;
+    color: white;
+}
+.pricing{
+	padding-left: 10px;
+    float: right;
+    line-height: 70px;
+    color: white;
+}
+.contact{
+	padding-left: 10px;
+    float: right;
+    line-height: 70px;
+    color: white;
+}
+.blog{
+	padding-left: 10px;
+    float: right;
+    line-height: 70px;
+    color: red;
+}
+.perfil{
+	margin: 0;
+	background-color: #2F4254;
+	padding-bottom: 40px;
+}
+
+.imgPerfil{
+	text-align: center;
+	margin: auto;
+	padding-top: 110px; 
+	/*max-height: 350px;
+	margin-bottom: 15px;
+*/
+	/*padding: 5px;
+    height: 59px;
+    width: 752px;*/
+}
+
+.imgPerfil img{
+	height: 333px;
+
+}
+
+.redesSociales{
+	margin: auto;
+	text-align: center;
+}
+.redesSociales h2{
+	display:inline-block;
+
+}
+
+.frase{
+	margin: auto;
+	text-align: center;
+}
+
+.frase h3{
+	display:inline-block;
+}
+
+.informacion{
+	padding-top: 80px;
+	background-color: #34495E;
+	padding-bottom: 40px;
+}
+
+.informacion img{
+
+	
+	padding-left: 50px;
+	width: 133px;
+
+}
+
+.informacion h3{
+
+    border-bottom: 3px solid white;
+    padding-bottom: 5px;
+    max-width: 168px;
+
+}
+
+.nombreInfo{
+	color: white;
+	padding-left: 50px;
+}
+
+.parrafoInf{
+	padding-left: 50px;
+	padding-right: 60px;
+	color: white;
+}
+
+.whatPrincipal{
+	background-color: #1ABC9C;
+	padding-top: 80px;
+    padding-bottom: 40px;
+    height: auto;
+    text-align: center;
+    border-top: 8px solid #17967d;
+}
+
+.what_i_do h2,p{
+	color: white;
+}
+
+.cont{
+	padding: 10px;
+	margin: auto;
+	/*text-align: justify;*/
+	/*float: left;*/
+	display:inline-block;
+}
+.seoFirst{
+	padding: 10px;
+    margin: 10px 0 0 0;
+    text-align: justify;
+    float: left;
+    width: 153px;
+}
+
+.firstclassdesign{
+	padding: 10px;
+    margin: 10px 0 0 0;
+    text-align: justify;
+    float: left;
+    width: 173px;
+}
+
+.fully{
+	padding: 10px;
+    margin: 10px 0 0 0;
+    text-align: justify;
+    float: left;
+    width: 153px;
+}
+
+.browser{
+	padding: 10px;
+    margin: 10px 0 0 0;
+    text-align: justify;
+    float: left;
+    width: 153px;
+}
